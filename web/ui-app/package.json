@@ -54,7 +54,7 @@
     "styled-components": "^2.2.4"
   },
   "devDependencies": {
-    "@jdcrensh/react-scripts": "1.0.17",
+    "@jdcrensh/react-scripts": "5.0.2-0",
     "prettier": "1.9.2",
     "react-scripts-plugin-no-minify": "0.3.2",
     "redux-logger": "^3.0.6"
